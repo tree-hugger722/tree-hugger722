@@ -3,7 +3,8 @@
 <!--
 **tree-hugger722/tree-hugger722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### My name is Emma (she/her). I'm a fourth year student at Williams College💜🐮💛 majoring in Computer Science.
+#### My name is Emma (she/her). 
+#### I'm a fourth year student at Williams College💜🐮💛 majoring in Computer Science.
 
 🔭 I’m starting ... as a devops engineer at [InterSystems](https://www.intersystems.com/) in August
 🌱 I’m currently learning ... how to build a web server (and how the internet works)🤓

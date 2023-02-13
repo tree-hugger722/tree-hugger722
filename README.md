@@ -10,6 +10,5 @@
 - 🌱 I’m currently learning ... how to build a web server (and how the internet works)
 - 😌 In my free time ... you'll find me cooking seasonal dishes from [Six Seasons](https://www.joshuamcfadden.com/sixseasons)🍲
 
-[<img align="left" alt="linkedin" width="25px" src="assets/linkedin.png" />](https://www.linkedin.com/in/emma-neil-538891177/)
-&nbsp;&nbsp;&nbsp;
-[<img alt="email" width="29px" src="assets/gmail.png" />](mailto:emmaneil722@gmail.com)
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(https://www.linkedin.com/in/emma-neil-538891177/)
+&nbsp;
